@@ -2,6 +2,13 @@
 
 This is the backend service for the **TodoApp**, built with Node.js and Express.  
 It provides RESTful APIs for managing tasks, users, and authentication.
+----
+🛠️ Technologies Used
+- Node.js
+- Express.js
+- MongoDB & Mongoose
+- JWT Authentication
+- dotenv
 
 ---
 
